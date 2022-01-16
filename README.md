@@ -1,10 +1,28 @@
 # Obsidian PARA
 
-Template for using Obsidian for P.A.R.A. as your universal organization system.
+Template for using Obsidian for PARA as your universal organization system.
 
 ## What is PARA
 
+> [P.A.R.A.](https://fortelabs.co/blog/para/) stands for Projects — Areas — Resources — Archives, the four top-level categories that encompass every type of information you might encounter in your work and life.
 
+It was designed by Tiago Forte to be a universal organization system.
+
+A **project** is “a series of tasks linked to a goal, with a deadline.”
+
+Examples include: Complete app mockup; Develop project plan; Execute business development campaign; Write blog post; Finalize product specifications; Attend conference
+
+An **area of responsibility** is “a sphere of activity with a standard to be maintained over time.”
+
+Examples include: Health; Finances, Professional Development; Travel; Hobbies; Friends; Apartment; Car; Productivity; Direct reports; Product Development; Writing
+
+A **resource** is “a topic or theme of ongoing interest.”
+
+Examples include: habit formation; project management; transhumanism; coffee; music; gardening; online marketing; SEO; interior design; architecture; note-taking
+
+**Archives** include “inactive items from the other three categories.”
+
+Examples include: projects that have been completed or become inactive; areas that you are no longer committed to maintaining; resources that you are no longer interested in
 
 ## Why Obsidian
 

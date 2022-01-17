@@ -1,12 +1,20 @@
 # Obsidian PARA
 
-Template for using Obsidian for PARA as your universal organization system.
+[View on Medium](https://b-yarbrough.medium.com/obsidian-and-para-are-the-perfect-pairing-together-you-can-remember-connect-and-create-7a87c8882de5)
+
+Obsidian and PARA are the perfect pairing. Together, you can Remember, Connect, and Create. It is a universal organization system, designed to keep your knowledge approachable and actionable.
+
+With Obsidian and PARA, you keep all of your information in plaintext files, and the entire hierarchy is four categories wide (projects, areas, resources, archives), and no more than four levels deep (Obsidian > vault > folders > notes).
+
+You download the Obsidian PARA starter kit [here](https://github.com/byarbrough/obsidian-para/archive/refs/heads/main.zip) or with git.
 
 ## What is PARA
 
 > [P.A.R.A.](https://fortelabs.co/blog/para/) stands for Projects — Areas — Resources — Archives, the four top-level categories that encompass every type of information you might encounter in your work and life. It was designed by Tiago Forte to be a universal organization system.
 
 Each of the four folders is actionable. Projects contain discrete goals with specified time horizons, while Archives may sit dormant for months.
+
+There is only ever one folder below each of these four PARA folders! This way you never can remember where things are, rather than drilling down though umpteen layers.
 
 ![Definitions of P.A.R.A. components](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*i6I0M5kaZUOwIfq5q5W4mQ.jpeg)
 
@@ -28,7 +36,7 @@ Examples include: projects that have been completed or become inactive; areas th
 
 ### Progressive Summarization
 
-PARA intends to enable you to **Remeber**, **Connect**, and **Create**.
+PARA intends to enable you to **Remember**, **Connect**, and **Create**.
 
 ![Information flows within P.A.R.A.](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*qng-pJJUdoENmYs_3HiISg.jpeg)
 
@@ -52,9 +60,10 @@ It is available for Windows, macOS, Linux, Android, and iPhone.
 Here are the key features that make Obsidian the best choice for PARA:
 
 1. **Tags and links are first-class.** The human brain is non-linear: we jump from idea to idea, all the time. Your second brain should work the same. Graph view allows you to explore links.
-2. **Never worry about being locked-in.** Files are plain Markdown and stored locally. So if you ever decide to use a different editor, you don't need to hope that you'll be able to export them from a proprietary format.
-3. **Beauty and simplicity**. The editor is simple, yet powerful, giving you more space for your thoughts and less for distractions. Plus, with extensible plugins, you can customize it to fit you.
-4. **Sync across all your devices.** Seamless synchronization across your computers and mobile devices. The files are encrypted, so only you can read them.
+2. **Easily searchable.** You can instantly search all of your files to find phrases or keywords.
+3. **Never worry about being locked-in.** Files are plain Markdown and stored locally. So if you ever decide to use a different editor, you don't need to hope that you'll be able to export them from a proprietary format.
+4. **Beauty and simplicity**. The editor is simple, yet powerful, giving you more space for your thoughts and less for distractions. Plus, with extensible plugins, you can customize it to fit you.
+5. **Sync across all your devices.** Seamless synchronization across your computers and mobile devices. The files are encrypted, so only you can read them.
 
 ## How to use this repository
 
@@ -68,7 +77,7 @@ If using `git`, then change the `remote` to your repository before using the [ob
 
 [Install Obsidian](https://obsidian.md/).
 
-Then "Open folder as vault."
+Open Obsidian and choose “Open folder as vault.”
 
 ![Open folder as vault](images/obsidian-folder-as-vault.png)
 
@@ -90,11 +99,11 @@ See the [Templates help](https://help.obsidian.md/Plugins/Templates) for more in
 
 ### Migrate to PARA
 
-1. Create a folder in `4. Archives` with today's date. Then move *all* of your existing folders as is with the same existing hierarchy (remember it's not deleted 😉).
-2. Create one folder for each of your current projects you're working on in `1. Projects` (remember only one sub-folder to stay four levels deep).
-3. Create a goal for each of those Projects. If you cannot come up with a goal for it right now, then consider if it should really be under `2. Areas`.
-4. If you already know some of your `Areas`, you can create the folders, but try not to have too many empty folders.
-5. Do not create any folders in `3. Resources`, yet.
+1. Create a folder in `4. Archives` with today's date. Then move all of your existing folders as is with the same existing hierarchy (remember it's not deleted)
+2. Create one folder for each of your current projects you’re working on in `1. Projects` (remember only one sub-folder to stay four levels deep)
+3. Create a goal for each of those Projects. If you cannot come up with a goal for it right now, then consider if it should really be under `2. Areas`
+4. If you already know some of your `2. Areas`, you can create the folders, but try not to have too many empty folders
+5. Do not create any folders in `3. Resources`, yet. As you read or discover things, create a sub-folder and add notes.
 
 Each time you go into `4. Archives` to take one of the "old" notes or files, you then move it to the right spot in the new taxonomy. Doing it this way will highlight the most used notes, and what's left behind can stay in Archive until it's finally used (or not).
 
@@ -106,3 +115,5 @@ Once you have the folder hierarchy done, you want to copy it across all your oth
 - You can also have the "same" folder in 2 different roots. For example, `2. Areas/Health` and `3. Resources/Health` the first one is **_your_** health notes and the other **general** health-related notes.
 - Remember, you do **_not_** want to sort all your current notes and files and put them in the new folder, put them all in the Archive as is, and then move them out as you use them.
 - You do **_not_** have to do every single folder for your local files and cloud service; create the sub-folders are you need them, **_but_** you need to have one complete setup, most likely in your notes, to act as the primary reference for the others.
+
+You can also find a helpful thread on PARA in the Obsidian Forums.

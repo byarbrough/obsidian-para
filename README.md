@@ -4,9 +4,11 @@ Template for using Obsidian for PARA as your universal organization system.
 
 ## What is PARA
 
-> [P.A.R.A.](https://fortelabs.co/blog/para/) stands for Projects — Areas — Resources — Archives, the four top-level categories that encompass every type of information you might encounter in your work and life.
+> [P.A.R.A.](https://fortelabs.co/blog/para/) stands for Projects — Areas — Resources — Archives, the four top-level categories that encompass every type of information you might encounter in your work and life. It was designed by Tiago Forte to be a universal organization system.
 
-It was designed by Tiago Forte to be a universal organization system.
+Each of the four folders is actionable. Projects contain discrete goals with specified time horizons, while Archives may sit dormant for months.
+
+![Definitions of P.A.R.A. components](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*i6I0M5kaZUOwIfq5q5W4mQ.jpeg)
 
 A **project** is “a series of tasks linked to a goal, with a deadline.”
 
@@ -23,6 +25,20 @@ Examples include: habit formation; project management; transhumanism; coffee; mu
 **Archives** include “inactive items from the other three categories.”
 
 Examples include: projects that have been completed or become inactive; areas that you are no longer committed to maintaining; resources that you are no longer interested in
+
+### Progressive Summarization
+
+PARA intends to enable you to **Remeber**, **Connect**, and **Create**.
+
+![Information flows within P.A.R.A.](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*qng-pJJUdoENmYs_3HiISg.jpeg)
+
+You should be able to capture ideas worth saving, opportunistically connect those ideas with other ideas, and then use your curated, layered knowledge base to create content you enjoy and is valuable.
+
+You accomplish this via [Progressive Summarization](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes). This is a strategy that answers the question, "How do I make what I’m consuming right now easily discoverable for my future self?”
+
+The core of Progressive Summarization is that every time you interact with a note, you compress it just a little more. As you compress it, you loose some of the original context, but have the opportunity to connect it with other and new ideas.
+
+For more information, see Forte's [Building a Second Brain Course](https://fortelabs.co/blog/basboverview/) and his [Progressive Summarization](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes) post.
 
 ## Why Obsidian
 

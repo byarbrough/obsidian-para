@@ -87,3 +87,22 @@ To insert a template, create a new file, name it, and press `Ctrl + p`. Then beg
 ![Insert template command pallet](images/obsidian-insert-template.png)
 
 See the [Templates help](https://help.obsidian.md/Plugins/Templates) for more information.
+
+### Migrate to PARA
+
+1. Create a folder in `4. Archives` with today's date. Then move *all* of your existing folders as is with the same existing hierarchy (remember it's not deleted 😉).
+2. Create one folder for each of your current projects you're working on in `1. Projects` (remember only one sub-folder to stay four levels deep).
+3. Create a goal for each of those Projects. If you cannot come up with a goal for it right now, then consider if it should really be under `2. Areas`.
+4. If you already know some of your `Areas`, you can create the folders, but try not to have too many empty folders.
+5. Do not create any folders in `3. Resources`, yet.
+
+Each time you go into `4. Archives` to take one of the "old" notes or files, you then move it to the right spot in the new taxonomy. Doing it this way will highlight the most used notes, and what's left behind can stay in Archive until it's finally used (or not).
+
+Once you have the folder hierarchy done, you want to copy it across all your other systems; that is where P.A.R.A. starts to shine. You want to have the same hierarchy for your local files on your computer, in your notes, in your Dropbox/Google Drive/iCloud, and everywhere else you have to keep information. Doing that will make it very quick and easy to find things you might need for work or something in the same zone across all your apps. For this reason, the more system you integrate the taxonomy into, the easier finding things will be.
+
+#### Setup tips
+
+- If a note (or a file) can go into two different folders, you put it in the folder where you will **_most likely need it next_** since folders are based on actionability, and it will get moved anyway in the flow of things.
+- You can also have the "same" folder in 2 different roots. For example, `2. Areas/Health` and `3. Resources/Health` the first one is **_your_** health notes and the other **general** health-related notes.
+- Remember, you do **_not_** want to sort all your current notes and files and put them in the new folder, put them all in the Archive as is, and then move them out as you use them.
+- You do **_not_** have to do every single folder for your local files and cloud service; create the sub-folders are you need them, **_but_** you need to have one complete setup, most likely in your notes, to act as the primary reference for the others.

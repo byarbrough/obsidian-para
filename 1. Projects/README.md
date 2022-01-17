@@ -4,7 +4,7 @@
 
 Examples include: Complete app mockup; Develop project plan; Execute business development campaign; Write blog post; Finalize product specifications; Attend conference
 
-## Flow into Projects
+## Flows from Projects
 
 ![Flows from Projects](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*Ilh-XEesK5CAf_t9G4fWiQ.jpeg)
 

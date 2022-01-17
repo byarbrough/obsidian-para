@@ -2,16 +2,16 @@
 
 > An area of responsibility is a sphere of activity with a standard to be maintained over time.
 
-Examples include: Complete app mockup; Develop project plan; Execute business development campaign; Write blog post; Finalize product specifications; Attend conference
+Examples include: Health; Finances, Professional Development; Travel; Hobbies; Friends; Apartment; Car; Productivity; Direct reports; Product Development; Writing
 
-## Flow into Projects
+## Flows from Areas
 
-![Flows from Projects](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*Ilh-XEesK5CAf_t9G4fWiQ.jpeg)
+![Flows from Areas](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*i6ZAOt4zLMx5ljVmTdFM4A.jpeg)
 
-**To Areas**: sometimes what starts as a limited-time project becomes a long-term, ongoing responsibility. Your commitment to something can expand or contract over time. You might have a project to hire someone for your team, who then becomes an ongoing report to manage. You might try out a new hobby as a side project, and then commit to keeping it going indefinitely, making it an area.
+**To Projects**: It is common to start a new project, and realize there is something you’ve been collecting for a long time that is potentially useful to the new project. Maybe you’ve been collecting ideas in a Travel (area) notebook for awhile — when the time comes to plan and schedule a specific trip (a project), this is a great place to start. If you find one travel destination you want to take action on, you can move it to a brand spanking new “Bali” (project) notebook as the seed to get your planning started.
 
-**To Resources**: During the course of a project, it is common to generate all sorts of “intermediate work” (brainstorms, notes, background research, diagrams, interview notes, etc.) that has value, but may or may not make it into the final product. When you finish a project, before moving it to Archives, it’s a good idea to scan it quickly for any such material that might be useful for future projects. In my experience, this only applies to a small amount of the material for any given project, but the value it creates in the future is immense.
+**To Resources**: As mentioned before, it’s a good idea to keep personally relevant information in Areas, and generally useful information in Resources. But sometimes you realize a note you thought was only relevant to you can also provide value to others. For example, I realized my personal time-tracking data, collected over years, might be useful to show others as an example. I moved it to a Quantified Self (resource) notebook so I was sure to see it in the future if I wanted to share useful resources with others.
 
-**To Archives**: Since our goal is rapid project turnover, this is one of the most common flows, moving completed or inactive projects to Archives for future reference.
+**To Archives**: Although it is rare, sometimes an area ceases to be active, and can be archived. I helped my dad with his business website for years, an area of responsibility that had an indefinite end date. But eventually I got too busy, and moved that area to Archives. This also applies to relationships, whether work or personal, which don’t usually have an exact end date, but can become inactive after a move or job change (or breakup).
 
 _From [PARA Part 2: Operations Manual](https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/)_

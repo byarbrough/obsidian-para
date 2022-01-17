@@ -57,3 +57,33 @@ Here are the key features that make Obsidian the best choice for PARA:
 4. **Sync across all your devices.** Seamless synchronization across your computers and mobile devices. The files are encrypted, so only you can read them.
 
 ## How to use this repository
+
+First, [download this repository](https://github.com/byarbrough/obsidian-para/archive/refs/heads/main.zip) and extract it to where you want your vault to be located.
+
+Consider placing the folder in a location that is automatically backed up, such as to iCloud or GoogleDrive.
+
+If using `git`, then change the `remote` to your repository before using the [obsidian-git](https://github.com/denolehov/obsidian-git) plugin (which doesn't work with Snaps, sadly)... if that was gibberish, then just delete the `.git/` hidden folder.
+
+### Obsidian Setup
+
+[Install Obsidian](https://obsidian.md/).
+
+Then "Open folder as vault."
+
+![Open folder as vault](images/obsidian-folder-as-vault.png)
+
+Open this folder.
+
+The settings for your vault are saved in the hidden folder `.obsidian/`. Currently, several core plugins are enabled. All community plugins and themes are disabled. You can change this in settings.
+
+Purchasing and setting up [Obsidian Sync](https://obsidian.md/sync) is highly recommended if you are using Obsidian on multiple devices.
+
+#### Templates
+
+The `templates/` directory contains templates that can be used to standardize headers in your files.
+
+To insert a template, create a new file, name it, and press `Ctrl + p`. Then begin typing "templates".
+
+![Insert template command pallet](images/obsidian-insert-template.png)
+
+See the [Templates help](https://help.obsidian.md/Plugins/Templates) for more information.
